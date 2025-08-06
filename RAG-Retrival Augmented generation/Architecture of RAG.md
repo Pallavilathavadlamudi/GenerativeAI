@@ -4,7 +4,7 @@ At a high level, the RAG architecture involves a **user query**, a **framework (
 
 ---
 
-### 🔁 **Step-by-Step Workflow**
+### **Step-by-Step Workflow**
 
 | **Step** | **Component**                    | **What Happens**                                                                                                          |
 | -------- | -------------------------------- | ------------------------------------------------------------------------------------------------------------------------- |
@@ -18,8 +18,9 @@ At a high level, the RAG architecture involves a **user query**, a **framework (
 | 8️⃣      | **Post-processing (optional)**   | The framework may clean, format, or cache the response.                                                                   |
 | 9️⃣      | **User Gets Answer**             | The user receives a well-informed, contextual, and accurate answer.                                                       |
 
+<img src = "https://github.com/Pallavilathavadlamudi/GenerativeAI/blob/main/RAG-Retrival%20Augmented%20generation/Assets/img-rag-architecture-model.jpg">
 
-### ✅ **Key Takeaways**
+### **Key Takeaways**
 
 * RAG enhances LLMs by adding **real-time context**.
 * **Vector search** is the heart of RAG—it brings in the relevant info.
@@ -27,6 +28,3 @@ At a high level, the RAG architecture involves a **user query**, a **framework (
 * The **LLM doesn’t "know" everything—it relies on retrieved context** to generate grounded, accurate answers.
 * This architecture is modular—you can scale it with caching, user personalization, database integration, etc.
 
----
-
-Let me know if you’d like a **visual flowchart**, **slide-ready version**, or **hands-on code example** for this architecture!
