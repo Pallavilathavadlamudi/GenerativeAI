@@ -12,10 +12,6 @@
 
 ---
 
-#Certainly! Here's the **principles and advantages of using RAG** formatted into a clear and organized table:
-
----
-
 ### **Advantages of RAG over Traditional Fine-Tuning**
 
 | **Aspect**               | **Traditional LLMs**                                                                                   | **RAG Systems**                                                                                      |
