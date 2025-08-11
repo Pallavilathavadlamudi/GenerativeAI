@@ -104,7 +104,4 @@ If you’d rather move the whole `~/.ollama` folder to the **Trash** instead:
 ```bash
 osascript -e 'tell application "Finder" to delete (POSIX file "'"$HOME"'/.ollama")'
 ```
-
----
-
-Need a tiny script to automate “pull → run → open blobs” for demos? I can bundle it into a one-click `.command` file for you.
+ 
