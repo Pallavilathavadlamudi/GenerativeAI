@@ -11,3 +11,5 @@ Key features include:
 * Supports **real-time updates** and is built with **security** in mind
 
 These databases make it easy to do smart searches across large datasets, especially when using AI models that turn raw data into these vector representations.
+
+<img src = "https://github.com/Pallavilathavadlamudi/GenerativeAI/blob/main/Assets/vectordb.jpeg">
