@@ -18,7 +18,7 @@ At a high level, the RAG architecture involves a **user query**, a **framework (
 | 8️⃣      | **Post-processing (optional)**   | The framework may clean, format, or cache the response.                                                                   |
 | 9️⃣      | **User Gets Answer**             | The user receives a well-informed, contextual, and accurate answer.                                                       |
 
-  <img src = "https://github.com/Pallavilathavadlamudi/GenerativeAI/blob/main/RAG-Retrival%20Augmented%20generation/Assets/img-rag-architecture-model.jpg">
+  <img src = "https://github.com/Pallavilathavadlamudi/GenerativeAI/blob/main/Assets/img-rag-architecture-model.jpg">
 
 ### **Key Takeaways**
 
