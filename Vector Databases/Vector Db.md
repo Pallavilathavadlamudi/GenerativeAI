@@ -59,8 +59,6 @@ These databases make it easy to do smart searches across large datasets, especia
 | **Storage**     | Stores high-dimensional vector data for fast access                        |
 | **Indexing**    | Speeds up retrieval using advanced algorithms like ANN (e.g., FAISS, HNSW) |
 
-Absolutely! Here's a **detailed and in-depth explanation** of the role of **vector databases in RAG systems**, broken down by core functions and concepts as shown in your screenshots from slides 47 & 48:
-
 ---
 
 ## **Role of Vector Databases in RAG Systems (Retrieval-Augmented Generation)**
